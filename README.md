@@ -27,6 +27,7 @@ Para la correcta instalación se debe primero clonar el repositorio como se indic
 
 ```
 cd AREP-Taller1
+mvn package
 java -cp target/taller-1-1.0-SNAPSHOT.jar edu.escuelaing.arep.taller1.App
 ```
 
